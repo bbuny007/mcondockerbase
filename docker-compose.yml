@@ -6,6 +6,8 @@ services:
     restart: unless-stopped
     container_name: minecraftserver-mc
     environment:
+#das server icon ist das bild in der liste in minecraft link oder dateien pfad
+      ICON: "https://cdn.icon-icons.com/icons2/2699/PNG/64/docker_tile_logo_icon_168248.png"    
 #ram minimum 2 gigabyte weil es sonst sehr instabil
       MEMORY: 2G
 #der typ vom server paper ist ein leistungstarker server file der erlaubt plugin von spigot und bukkit zu installieren (für mehr siehe github)
