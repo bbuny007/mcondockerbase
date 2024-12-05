@@ -82,4 +82,26 @@ einfach im web ui die docker-compose.yml datei aus wählen und ausführen oder i
 
 `sudo docker compose up -d`
 
-#Extra nach insterlations setup
+# Extra nach insterlations setup
+
+## plugins 
+
+plugins sind mods die nicht jeder herunter laden muss die befinden sich nur im server deswegen sind die auch limitiert z.B können sie keine neuen blöcke und so hinzufügen
+aber dennoch sind sie noch wichtig!
+wie schon in der config kann man plugins von [hier(spigot)](https://www.spigotmc.org/resources/) und [hier(bukkit)](https://dev.bukkit.org/bukkit-plugins) und [hier(hangar)](https://hangar.papermc.io/) herunter laden
+manche alte plugins können nicht aktuell sein aber manche sind auch wenn sie seid jahren geupdated wurden z.B Vault (ein econome und berechtigung zusammenfür plugin)
+die macht man zur info in ./datenordner/plugins sehr einfach ich weiß und die configuriet man dann in dem selben ordner aber dann in einem ordner das wie das plugin heißt
+###wichtie plugins
+
+- [geyser](https://geysermc.org/download)
+  
+  ein plugin der cross play erlaubt aber dafür braucht man auch floodgate und ein extra port der offen ein muss flood gate erlaubt es einen ohne java account beizutreten.
+
+- [essentialsX](https://essentialsx.net/downloads.html)
+
+  ein administrator plugin der sehr viele qualitäts admin commandos die mit / im chat anfangen hinzufügt
+
+- [luckperms](https://luckperms.net/)
+  ein plugin mit einem editor der berechtigungen serleicht macht der editor kann mit (/lp editor)  geöffnet erdem man muss den link im chatan klicken zum glück hat es auch ne deutsche website
+
+
