@@ -80,7 +80,7 @@ um sicher zu sein
 
 `sudo docker run hello-world`
 
-### Man kann alles ignorieren obere im setup wenn man casa os oder ein anderes docker webui hat oder oder docker und docker compose schon installiert ist
+### Man kann alles ignorieren obere im setup wenn man casa os oder ein anderes docker webui hat oder oder docker und docker compose schon installiert hat
 ## setup part 2 
 
 die oben genannte ordner erstellen und
