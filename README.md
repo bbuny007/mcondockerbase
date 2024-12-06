@@ -74,7 +74,7 @@ Danach die abhängigen prüfen mit [diesem link](https://docs.docker.com/engine/
 
 ![image](https://github.com/user-attachments/assets/6c224918-b76a-44b4-afb4-fe51cc645bbe)
 
-wenn der raspberry pi os weg nicht funktionert einfach debian verwenden weil rpios version nur arm23 beinhaltet und rpios eh nur ein derivat von debian ist
+wenn der raspberry pi os weg nicht funktionert einfach debian verwenden weil rpios version nur arm32 beinhaltet und rpios eh nur ein distrubution von debian ist
 
 um sicher zu sein 
 
